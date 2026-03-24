@@ -20,4 +20,5 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
