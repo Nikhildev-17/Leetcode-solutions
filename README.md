@@ -16,4 +16,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
