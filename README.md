@@ -8,6 +8,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0001-two-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -43,4 +44,12 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
