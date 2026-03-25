@@ -26,6 +26,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +39,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
