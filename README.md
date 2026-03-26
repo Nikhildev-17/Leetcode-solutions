@@ -8,6 +8,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0001-two-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -15,6 +16,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -39,6 +41,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
