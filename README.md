@@ -13,6 +13,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
