@@ -32,6 +32,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0001-two-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -82,10 +83,12 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
