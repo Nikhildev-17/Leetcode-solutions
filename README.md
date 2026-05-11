@@ -13,6 +13,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -69,6 +70,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
