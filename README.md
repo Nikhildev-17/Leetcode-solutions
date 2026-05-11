@@ -12,6 +12,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0001-two-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -69,6 +71,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
@@ -100,4 +103,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
