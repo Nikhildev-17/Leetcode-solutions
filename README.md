@@ -20,6 +20,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -120,21 +122,26 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
