@@ -35,6 +35,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -85,6 +86,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,5 +176,10 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
