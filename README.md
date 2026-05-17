@@ -57,6 +57,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
@@ -85,6 +86,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -175,6 +177,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
