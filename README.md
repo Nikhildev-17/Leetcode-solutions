@@ -34,6 +34,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -182,6 +183,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0002-add-two-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
