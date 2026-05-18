@@ -25,6 +25,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -177,6 +178,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
