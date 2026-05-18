@@ -130,6 +130,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -195,6 +196,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
