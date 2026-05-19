@@ -28,6 +28,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -207,6 +208,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
