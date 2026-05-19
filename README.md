@@ -201,6 +201,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -212,4 +213,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
