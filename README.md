@@ -26,6 +26,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -207,6 +208,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0155-min-stack](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Doubly-Linked List
@@ -218,6 +220,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
