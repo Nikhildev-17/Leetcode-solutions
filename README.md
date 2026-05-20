@@ -14,6 +14,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0035-search-insert-position](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -39,6 +40,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -123,6 +125,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
@@ -204,6 +207,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -218,6 +222,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
