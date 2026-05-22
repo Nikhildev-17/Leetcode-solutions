@@ -63,6 +63,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0146-lru-cache](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -143,6 +144,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -247,4 +249,9 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
