@@ -190,6 +190,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -267,4 +268,12 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
