@@ -185,11 +185,13 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -271,9 +273,11 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
