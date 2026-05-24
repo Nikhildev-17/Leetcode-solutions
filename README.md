@@ -186,6 +186,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -277,6 +278,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -284,6 +286,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
