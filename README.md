@@ -137,6 +137,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
@@ -197,6 +198,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0112-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -302,6 +304,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0112-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -318,6 +321,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0112-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
