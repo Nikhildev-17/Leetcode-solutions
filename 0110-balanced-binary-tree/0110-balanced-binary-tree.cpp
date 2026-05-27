@@ -17,19 +17,20 @@ public:
         int leftHeight = helper(root -> left);
         int rightHeight = helper(root -> right);
 
-        return 1 + max(leftHeight, rightHeight);
+        if(leftHeight == -1) return -1;
+        if(rightHeight == -1) return -1;
+
+        if(abs(leftHeight - rightHeight) <= 1){
+            return 1 + max(leftHeight, rightHeight);
+        }
+
+        return -1;
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == NULL) return true;
+        int height = helper(root);
+        if(height == -1) return false;
 
-        int leftHt = helper(root -> left);
-        int rightHt = helper(root -> right);
-
-        if(abs(leftHt - rightHt) <= 1 && isBalanced(root -> left) && isBalanced(root -> right)){
-            return true;
-        }
-
-        return false;
+        return true;
     }
 };
