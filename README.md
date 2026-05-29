@@ -209,6 +209,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -217,6 +218,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -319,6 +321,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -356,4 +360,5 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
