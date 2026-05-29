@@ -15,23 +15,17 @@ public:
     TreeNode* prev = NULL;
 
     int minDiffInBST(TreeNode* root) {
-        if(root == NULL) return INT_MAX;
+        if(root == NULL) return ans;
 
-        if(root -> left){
-            int leftMin = minDiffInBST(root -> left);
-            ans = min(ans, leftMin);
-        }
+        minDiffInBST(root->left);
 
         if(prev != NULL){
-            ans = min(ans, root -> val - prev -> val); 
+            ans = min(ans, root->val - prev->val);
         }
 
         prev = root;
 
-        if(root -> right){
-            int rightMin = minDiffInBST(root -> right);
-            ans = min(ans, rightMin);
-        }
+        minDiffInBST(root->right);
 
         return ans;
     }
