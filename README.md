@@ -88,6 +88,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -338,6 +341,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +371,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -388,4 +393,5 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
