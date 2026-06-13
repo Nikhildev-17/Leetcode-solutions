@@ -37,6 +37,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0682-baseball-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -169,6 +170,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
@@ -236,6 +238,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
