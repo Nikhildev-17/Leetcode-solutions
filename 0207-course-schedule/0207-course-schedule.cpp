@@ -1,17 +1,14 @@
 class Solution {
 public:
-    bool isCycle(int src, vector<vector<int>>& edges, vector<bool>& vis, vector<bool>& recPath){
+    bool isCycle(int src, vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& recPath){
         vis[src] = true;
         recPath[src] = true;
 
-        for(int i = 0; i<edges.size(); i++){
-            int v = edges[i][0];
-            int u = edges[i][1];
-
-            if(u == src){
-                if(!vis[v]){
-                if(isCycle(v, edges, vis, recPath)) return true;
-                }else if(recPath[v]) return true;
+        for(int i : adj[src]){
+            if(!vis[i]){
+                if(isCycle(i, adj, vis, recPath)) return true;
+            }else if(recPath[i]){
+                return true;
             }
         }
 
@@ -24,11 +21,21 @@ public:
         vector<bool>vis(n, false);
         vector<bool> recPath(n, false);
 
-        for(int i=0; i<n; i++){
+        vector<vector<int>>adj(n);
+
+        for(int i = 0; i<edges.size(); i++){
+            int v = edges[i][0];
+            int u = edges[i][1];
+
+            adj[u].push_back(v);
+        }
+
+        for(int i = 0; i<n; i++){
             if(!vis[i]){
-                if(isCycle(i, edges, vis, recPath)) return false;
+                if(isCycle(i, adj, vis, recPath))return false;;
             }
         }
+
         return true;
     }
 };
