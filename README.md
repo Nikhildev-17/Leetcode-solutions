@@ -234,6 +234,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -251,6 +252,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -439,9 +441,11 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
