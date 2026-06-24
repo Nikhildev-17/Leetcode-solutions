@@ -43,6 +43,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -182,6 +183,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
@@ -243,6 +245,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -264,6 +267,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -448,6 +452,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
