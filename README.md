@@ -44,6 +44,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -462,6 +463,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -470,6 +472,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -480,4 +483,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
