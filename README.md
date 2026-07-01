@@ -242,6 +242,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -267,6 +268,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -461,6 +463,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -470,6 +473,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
