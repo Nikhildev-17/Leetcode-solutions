@@ -50,6 +50,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3975-filter-occupied-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3975-filter-occupied-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Recursion
 |  |
 | ------- |
