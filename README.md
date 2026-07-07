@@ -489,6 +489,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
