@@ -18,6 +18,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0046-permutations](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -115,6 +116,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
