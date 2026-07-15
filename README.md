@@ -28,6 +28,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -162,6 +163,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sliding Window
