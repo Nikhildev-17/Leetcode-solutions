@@ -30,6 +30,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -164,6 +165,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sliding Window
