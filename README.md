@@ -45,6 +45,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -167,6 +168,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sliding Window
 |  |
