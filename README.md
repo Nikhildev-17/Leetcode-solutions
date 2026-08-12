@@ -36,6 +36,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0239-sliding-window-maximum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -185,6 +186,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -306,6 +308,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -558,4 +561,12 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
