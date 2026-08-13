@@ -38,6 +38,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -188,6 +189,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0518-coin-change-ii) |
