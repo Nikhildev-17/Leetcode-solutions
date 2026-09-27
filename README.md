@@ -196,6 +196,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [1143-longest-common-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Matrix
 |  |
@@ -575,4 +577,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
