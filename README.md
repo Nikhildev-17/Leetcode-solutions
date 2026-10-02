@@ -119,6 +119,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -156,6 +157,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0002-add-two-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -186,6 +188,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
@@ -223,6 +226,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
