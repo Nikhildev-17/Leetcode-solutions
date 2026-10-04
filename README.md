@@ -115,6 +115,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0009-palindrome-number](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2652-sum-multiples](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Greedy
@@ -195,6 +196,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -448,6 +450,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
@@ -480,6 +483,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0100-same-tree) |
@@ -520,6 +524,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
