@@ -28,6 +28,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0128-longest-consecutive-sequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -208,6 +209,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
