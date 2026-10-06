@@ -42,6 +42,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
