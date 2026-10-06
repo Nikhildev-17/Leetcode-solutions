@@ -119,6 +119,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0050-powx-n](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0670-maximum-swap](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2652-sum-multiples](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Greedy
@@ -128,6 +129,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0670-maximum-swap](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
