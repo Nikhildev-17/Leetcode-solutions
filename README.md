@@ -64,6 +64,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0735-asteroid-collision](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -155,6 +156,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0658-find-k-closest-elements](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0875-koko-eating-bananas](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
