@@ -1,21 +1,24 @@
 class Solution {
 public:
-    int minimum(vector<int>& hand){
-        int minVal = hand[0];
-        for(int i = 1; i<hand.size(); i++){
-            minVal = min(hand[i], minVal);
+    
+    bool isNStraightHand(vector<int>& hand, int groupSize) {
+        map<int, int>mp;
+        for(int i = 0; i<hand.size(); i++){
+            mp[hand[i]]++;
         }
 
-        return minVal;
-    }
-    bool isNStraightHand(vector<int>& hand, int groupSize) {
-        
-        while(hand.size() > 0){
-            int minVal = minimum(hand);
-            for(int i = 0; i<groupSize;i++){
-                auto it = find(hand.begin(), hand.end(), minVal + i);
-                if(it != hand.end()){
-                    hand.erase(it);
+        for(auto it : mp){
+            int freq = it.second;
+            int key = it.first;
+            
+            if(freq == 0) continue;
+            if(freq < 0){
+                return false;
+            }
+            
+            for(int i = 0; i<groupSize; i++){
+                if(mp.find(key + i) != mp.end()){
+                    mp[key + i] -= freq;
                 }else{
                     return false;
                 }
