@@ -46,6 +46,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -117,6 +118,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -134,6 +136,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0670-maximum-swap](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2652-sum-multiples](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -465,6 +468,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0225-implement-stack-using-queues](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Queue
 |  |
 | ------- |
@@ -675,4 +679,5 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
