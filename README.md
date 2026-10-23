@@ -68,6 +68,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -125,6 +126,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0846-hand-of-straights](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
@@ -221,6 +223,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -263,6 +266,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
