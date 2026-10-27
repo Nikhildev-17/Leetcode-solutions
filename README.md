@@ -84,6 +84,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3975-filter-occupied-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Two Pointers
 |  |
@@ -308,6 +309,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -412,6 +414,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -501,6 +504,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -631,6 +635,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1192-critical-connections-in-a-network](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -642,6 +647,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
