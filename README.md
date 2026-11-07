@@ -237,6 +237,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0055-jump-game](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -281,6 +282,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0044-wildcard-matching](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
