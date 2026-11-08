@@ -30,6 +30,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0128-longest-consecutive-sequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -116,6 +117,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0146-lru-cache) |
@@ -241,6 +243,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -284,6 +287,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -662,6 +666,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 ## Geometry
 |  |
 | ------- |
@@ -700,4 +705,12 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
