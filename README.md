@@ -102,6 +102,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -186,6 +187,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0018-4sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -487,6 +489,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0173-binary-search-tree-iterator](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Queue
@@ -504,6 +507,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -713,4 +717,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
