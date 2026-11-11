@@ -116,6 +116,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
@@ -288,6 +289,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0049-group-anagrams](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -400,6 +402,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
@@ -721,4 +724,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
