@@ -76,6 +76,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -315,6 +316,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -421,6 +423,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
