@@ -68,6 +68,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0735-asteroid-collision](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -133,6 +134,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -302,6 +304,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0583-delete-operation-for-two-strings](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1092-shortest-common-supersequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -418,6 +421,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -731,4 +735,5 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
