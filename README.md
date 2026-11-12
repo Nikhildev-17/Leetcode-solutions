@@ -85,6 +85,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -323,6 +324,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -431,6 +433,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
