@@ -44,6 +44,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0300-longest-increasing-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
@@ -256,6 +257,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0213-house-robber-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -315,6 +317,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0037-sudoku-solver](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -381,6 +384,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -416,6 +420,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -650,6 +655,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -664,6 +670,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
@@ -684,6 +691,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Geometry
 |  |
 | ------- |
@@ -739,4 +747,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | ------- |
 | [0127-word-ladder](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
