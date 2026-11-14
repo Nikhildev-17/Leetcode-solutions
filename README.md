@@ -57,6 +57,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -135,6 +136,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -236,6 +238,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
