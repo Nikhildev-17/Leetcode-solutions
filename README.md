@@ -57,6 +57,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -136,6 +137,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -154,6 +156,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 | [0096-unique-binary-search-trees](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2652-sum-multiples](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -238,6 +241,7 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -754,4 +758,8 @@ Collection of LeetCode solutions covering Data Structures and Algorithms, writte
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nikhildev-17/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
